@@ -1,4 +1,4 @@
-## HEYO!
+## HEYO! 👋
 
 ### Who i am?
 
@@ -8,7 +8,7 @@ My name's Tori and i'm a indie game developer 🎮
 
 I'm currently working on a personal project called "Obsidian", an Steam Punk Isometric 
 JRPG with turn-based combat system inspired by The Legend of Heroes: Trails in the Sky,
-Octopath Traveler and The Witcher 3: Wild Hunt
+Octopath Traveler and The Witcher 3: Wild Hunt ⚔️
 
 ### What tools i'm using?
 
