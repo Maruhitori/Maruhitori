@@ -13,7 +13,8 @@ Octopath Traveler and The Witcher 3: Wild Hunt ⚔️
 ### → What tools i'm using?
 
 I'm using Godot as my main engine, Blender for modeling, Aseprite for sprites,
-FL Studio for creating soundtrack and Audacity for creating sound effects
+FL Studio for 
+creating soundtrack and Audacity for creating sound effects
 
 ### → How to reach me?
 
